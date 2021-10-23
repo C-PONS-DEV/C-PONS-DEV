@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**C-PONS-DEV/C-PONS-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web developer
+* Front-end (ReactJS, HTML / CSS / JS)
+* Back-end (Symfony, MySQL)
 
-Here are some ideas to get you started:
+## System administrator
+*Script (Linux, Powershell)
+*Technical documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Information:
+*Website :
+*Twitter:
+*E-mail :
+*Linkedlin:
