@@ -5,11 +5,11 @@
 * Back-end (Symfony, MySQL)
 
 ## System administrator
-*Script (Linux, Powershell)
-*Technical documentation
+* Script (Linux, Powershell)
+* Technical documentation
 
 ### Information:
-*Website :
-*Twitter:
-*E-mail :
-*Linkedlin:
+* Website : https://clementpons.com/
+* Twitter: https://twitter.com/clement_pons
+* E-mail : cponsdev@gmail.com
+* Linkedlin: https://www.linkedin.com/in/clementpons/
