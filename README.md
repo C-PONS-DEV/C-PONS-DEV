@@ -4,7 +4,7 @@
 <a href="https://twitter.com/clement_pons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="clementpons" height="25" width="25" /></a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=C-PONS-DEV&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
 </p>
 
 
@@ -21,8 +21,4 @@
 * Twitter: https://twitter.com/clement_pons
 * E-mail : cponsdev@gmail.com
 * Linkedlin: https://www.linkedin.com/in/clementpons/
-
-### Statistics:
-
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=C-PONS-DEV)](https://github.com/anuraghazra/github-readme-stats)
 
