@@ -21,7 +21,3 @@
 * Twitter: https://twitter.com/clement_pons
 * E-mail : cponsdev@gmail.com
 * Linkedlin: https://www.linkedin.com/in/clementpons/
-
-<p align="center">
-  <a href="https://app.daily.dev/clem31"><img src="https://api.daily.dev/devcards/171d09c42d3e4088bcced834beb22e75.png?r=3n2" width="400" alt="Clément PONS's Dev Card"/></a>
-</p>
