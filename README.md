@@ -5,10 +5,6 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=C-PONS-DEV&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
-  
-   <a href="https://www.twitter.com/clement_pon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/clement_pon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 </p>
 
 
@@ -22,6 +18,10 @@ src="https://img.shields.io/twitter/follow/clement_pon?logo=twitter&style=for-th
 
 ### Information:
 * Website : https://clementpons.com/
-* Twitter: https://twitter.com/clement_pons
+* Twitter: https://twitter.com/clement_pon
 * E-mail : cponsdev@gmail.com
 * Linkedlin: https://www.linkedin.com/in/clementpons/
+
+<a href="https://www.twitter.com/clement_pon" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/clement_pon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
