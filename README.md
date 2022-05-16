@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <p align="center">
+  <a href="https://www.twitter.com/Pentiminax" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Pentiminax?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+  
 <a href="https://linkedin.com/in/clementpons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="clementpons" height="25" width="25" /></a>
 <a href="https://twitter.com/clement_pons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="clementpons" height="25" width="25" /></a>
 </p>
