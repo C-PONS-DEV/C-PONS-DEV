@@ -13,7 +13,7 @@
 * Back-end (Symfony, MySQL)
 
 ## System administrator
-* Script (Linux, Powershell)
+* Script (Bash, Powershell)
 
 ### Information:
 * Website : https://clementpons.com/
