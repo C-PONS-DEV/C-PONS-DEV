@@ -14,7 +14,6 @@
 
 ## System administrator
 * Script (Linux, Powershell)
-* Technical documentation
 
 ### Information:
 * Website : https://clementpons.com/
